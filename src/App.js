@@ -8,7 +8,7 @@ import './App.css';
 function App() {
     return (
         <div className="app">
-            <h1>Zimingyap.com</h1>
+            <h1>Zimingyap.comgg</h1>
           {/* <Navbar />
           <About />
           <Projects />
